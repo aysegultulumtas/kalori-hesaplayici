@@ -1,2 +1,3 @@
 # kalori-hesaplayıcı
-![image](https://github.com/user-attachments/assets/bfab8e0f-142b-43e6-9dc1-28c5a97d261b)
+
+![Adsız](https://github.com/user-attachments/assets/742fc2e9-eb62-4150-b350-783eff99437a)
